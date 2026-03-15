@@ -1,0 +1,9 @@
+metadata:
+  scraper: placard_scraper
+  scraped_at: 2026-03-05T10:44:08.866535
+  locale: pt_PT
+  total_events: 0
+  events_with_odds: 0
+data:
+  prefetch[0]:
+  events[0]:

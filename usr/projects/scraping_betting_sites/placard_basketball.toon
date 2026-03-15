@@ -1,0 +1,12 @@
+sport: basketball
+sportNumericId: 4942
+scrapedAt: 2026-03-06T23:24:09.133450
+sourceUrl: https://sportswidget-cdn.placard.pt/pre-fetch
+matchCount: 6
+matches[6]{id,name,sportId,classId,className,typeId,typeName,startTime,startTimeFormatted,isLive,isVirtual,competition,homeTeam,awayTeam,marketsCount,markets,cashoutAvailable,statisticsAvailable,eventMarketType}:
+  12709915833,WAS Wizards - UTA Jazz,basketball,basketball-us,Estados Unidos América,basketball-us-sb_type_19172,NBA,2026-03-06T00:00:00Z,2026-03-06T00:00:00+00:00,False,False,NBA,None,None,1,[{'id': '12709915860', 'name': 'Vencedor da partida', 'displayOrder': -1000, 'lines': []}],False,False,None
+  12709916930,HOU Rockets - GS Warriors,basketball,basketball-us,Estados Unidos América,basketball-us-sb_type_19172,NBA,2026-03-06T00:30:00Z,2026-03-06T00:30:00+00:00,False,False,NBA,None,None,1,[{'id': '12709917105', 'name': 'Vencedor da partida', 'displayOrder': -1000, 'lines': []}],False,False,None
+  12709921396,MIN Timberwolves - TOR Raptors,basketball,basketball-us,Estados Unidos América,basketball-us-sb_type_19172,NBA,2026-03-06T01:00:00Z,2026-03-06T01:00:00+00:00,False,False,NBA,None,None,1,[{'id': '12709921423', 'name': 'Vencedor da partida', 'displayOrder': -1000, 'lines': []}],False,False,None
+  12709923110,SA Spurs - DET Pistons,basketball,basketball-us,Estados Unidos América,basketball-us-sb_type_19172,NBA,2026-03-06T01:00:00Z,2026-03-06T01:00:00+00:00,False,False,NBA,None,None,1,[{'id': '12709923148', 'name': 'Vencedor da partida', 'displayOrder': -1000, 'lines': []}],False,False,None
+  12709924140,DEN Nuggets - LA Lakers,basketball,basketball-us,Estados Unidos América,basketball-us-sb_type_19172,NBA,2026-03-06T03:00:00Z,2026-03-06T03:00:00+00:00,False,False,NBA,None,None,1,[{'id': '12709924170', 'name': 'Vencedor da partida', 'displayOrder': -1000, 'lines': []}],False,False,None
+  12709924615,SAC Kings - NO Pelicans,basketball,basketball-us,Estados Unidos América,basketball-us-sb_type_19172,NBA,2026-03-06T03:00:00Z,2026-03-06T03:00:00+00:00,False,False,NBA,None,None,1,[{'id': '12709924642', 'name': 'Vencedor da partida', 'displayOrder': -1000, 'lines': []}],False,False,None

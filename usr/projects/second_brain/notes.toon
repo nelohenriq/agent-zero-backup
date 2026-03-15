@@ -1,0 +1,81 @@
+notes[6]{id,timestamp,category,content}:
+  1,2026-03-01 05:15:00,health,Beginner Home Workout: 10-15 reps of Bridge/Squat/Knee pushup/Lunge/Plank/Bird Dog/Dead bug (2 sets). Aim for 150 mins/week moderate intensity.
+  2,2026-03-01 05:25:00,personal,Self-Esteem Boost: Achievement Log Template. Categories: 1. Overcoming obstacles 2. Skills mastered 3. Helping others 4. Consistency/Discipline 5. Personal growth/learning.
+  3,2026-03-01 05:35:00,social,Finding Community: Platforms - Meetup.com (local interest groups), VolunteerMatch (volunteering), local libraries/papers (events). Strategies - Take classes, join book/sports clubs, attend gallery openings/lectures.
+  4,2026-03-01 05:45:00,health,Weight Loss Science: 1. Protein/Fiber (satiety) 2. Hydration (water before meals) 3. Mindful eating (slow down) 4. Sleep (7+ hours/night). Lack of sleep increases BMI/obesity risk.
+  5,2026-03-01 06:00:00,social,Finding Events: 1. Check Eventbrite/Meetup 'This Week'. 2. Search Facebook Events 'Nearby'. 3. Pick low-pressure events (workshops/lectures) for first-time attendance. Focus on shared activities to reduce small-talk pressure.
+  6,2026-03-01 18:23:00,health,Action: 20-min brisk walk in Serzedo. Outcome: Woke up before shift, metabolism boost.
+
+[2026-03-02 20:15] Token Optimization Vision
+Source: https://www.youtube.com/watch?v=ehfTs0wdW5g
+Status: To explore later
+---
+Idea: Push tasks to system level (Python, Linux commands) instead of AI to save tokens.
+Vision: AI as universal language like English - should be broadly distributed and taught.
+Goal: Implement frugal, open-source approach counting on AI guidance while learning together.
+---
+
+---
+Frugal Orchestrator project created. See /a0/usr/projects/frugal_orchestrator/
+- 2026-03-10 01:27 night shift worker caffeine timing best practices
+  * Caffeine and shift work - The correct dose & timing | Timeshifter® – https://www.timeshifter.com/shift-work-disorder/caffeine-and-shift-work
+  * Caffeine Timing, Dosing, and Performance on Night Shift: ... – https://residencyadvisor.com/resources/night-shift-survival/caffeine-timing-dosing-and-performance-on-night-shift-data-driven-guide
+  * Optimizing Your Night Shift: When to Drink Coffee for Maximum Alertness - CoffeePlusThree – https://coffeeplusthree.com/when-to-drink-coffee-during-night-shift/
+- 2026-03-10 01:35 summaries of SearXNG results (full content extracted)
+  * https://www.timeshifter.com/shift-work-disorder/caffeine-and-shift-work
+    > Circadian rhythms Shift work disorder Caffeine and shift work Caffeine and shift
+    > work Enjoying caffeine can help increase your energy level, but caffeine at the
+    > wrong time can negatively impact your sleep quality and reduce your ability to
+    > sleep. Reviewed by: Steven W. Lockley, Ph.D. Chief Scientist, Timeshifter
+    > Caffeine will not help reset your clock but can be useful in managing sleepiness
+    > associated with shift work and help ensure that you are awake to see light at
+    > the right time. The trick with caffeine is ‘little and often’ to help maintain
+    > alertness at the right time while minimizing the negative effects of caffeine on
+    > sleep. (And even if you think caffeine does not affect you, it does – you just
+    > don’t realize it!). A cup of caffeinated tea or coffee, or a caffeinated soda
+    > (equivalent to about 50mg of caffeine) every two hours is all that you need and
+    > higher doses will make it harder to sleep after work, and increase the risk of
+    > side effects, such as jitteriness. For those shift workers who want to use
+    > caffeine, Timeshifter provides advice on when and how to use it, and when to
+    > avoid it, to support the light-dark and sleep schedule ...
+
+  * https://residencyadvisor.com/resources/night-shift-survival/caffeine-timing-dosing-and-performance-on-night-shift-data-driven-guide
+    > Â Â Resources Â Â Night Shift Survival Â Â Caffeine Timing, Dosing, and
+    > Performance on Night Shift: Data-Driven Guide Caffeine Timing, Dosing, and
+    > Performance on Night Shift: Data-Driven Guide January 6, 2026 14 minute read
+    > caffeine timing night shift caffeine dosing shift work sleep deprivation
+    > vigilance post-call sleep resident wellness Overview The core problem: alertness
+    > â performance Pharmacology first: half-life, onset, and stacking Key numbers
+    > Dosing: how much is actually useful? Ceiling: where the data say you should stop
+    > Timing: where residents usually get it wrong Core timing constraints A
+    > dataâdriven caffeine schedule for nights Recommended pattern (per shift) What
+    > not to do (but everyone does) Match caffeine to your task profile napping +
+    > caffeine: the âcaffeine napâ tactic Protecting postâcall sleep: the
+    > nonânegotiable constraint Personalization: adjusting by body size, tolerance,
+    > and schedule Useful tracking metrics Body size and sensitivity Interactions,
+    > side effects, and red flags Pulling it together: practical template FAQ The way
+    > most residents use caffeine on nights is statistically optimized for one thing:
+    > feeling awake, not performing well. You can do better than that. The core
+    > problem: alertness â performance The data are blunt. Subjective alertness and
+    > objective performance separate under sleep deprivation. In controlled night-
+    > shift ...
+
+  * https://coffeeplusthree.com/when-to-drink-coffee-during-night-shift/
+    > Optimizing Your Night Shift: When to Drink Coffee for Maximum Alertness March
+    > 13, 2025 by Gustavo Huffman Working night shifts can be challenging, especially
+    > when it comes to staying alert and focused throughout the shift. One of the most
+    > common strategies for combating fatigue is consuming coffee, but timing is
+    > everything. In this article, we’ll explore the best times to drink coffee during
+    > a night shift to maximize alertness and minimize negative side effects.
+    > Understanding the Science of Caffeine and Sleep Before we dive into the optimal
+    > coffee-drinking times, it’s essential to understand how caffeine affects the
+    > body and its relationship with sleep. The Caffeine Cycle Caffeine is a stimulant
+    > that works by blocking the action of adenosine, a chemical that makes us feel
+    > tired. When we consume caffeine, it’s absorbed into the bloodstream and starts
+    > to take effect within 30 minutes. The effects of caffeine can last anywhere from
+    > 4 to 6 hours, depending on individual factors such as metabolism and
+    > sensitivity. Sleep Patterns and the Circadian Rhythm The human body has an
+    > internal clock that regulates our sleep-wake cycle, also known as the circadian
+    > rhythm. This natural process is controlled by the suprachiasmatic nucleus (SCN),
+    > which responds to ...
+

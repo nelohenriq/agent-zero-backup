@@ -1,0 +1,15 @@
+- Nikto v2.5.0/
++ Target Host: demo.owasp-juice.shop
++ Target Port: 443
++ GET /: Retrieved via header: 1.1 heroku-router.
++ GET /: Retrieved access-control-allow-origin header: *.
++ GET /: Uncommon header 'reporting-endpoints' found, with contents: heroku-nel="https://nel.heroku.com/reports?s=zSoWgZoE7mFvbpvj17TjvScrfGpI90xqz0X7UmIvSLo%3D&sid=812dcc77-0bd0-43b1-a5f1-b25750382959&ts=1772317798".
++ GET /: Uncommon header 'x-recruiting' found, with contents: /#/jobs.
++ GET /: The site uses TLS and the Strict-Transport-Security HTTP header is not defined. See: https://developer.mozilla.org/en-US/docs/Web/HTTP/Headers/Strict-Transport-Security: 
++ GET : Server banner changed from 'Heroku' to 'Apache/2.4.66 (Unix)'.
++ GET /Cs4MM3bj.config~: The X-Content-Type-Options header is not set. This could allow the user agent to render the content of the site in a different fashion to the MIME type. See: https://www.netsparker.com/web-vulnerability-scanner/vulnerabilities/missing-content-type-header/: 
++ GET /robots.txt: Entry '/ftp/' is returned a non-forbidden or redirect HTTP code (200). See: https://portswigger.net/kb/issues/00600600_robots-txt-file: 
++ GET /robots.txt: contains 1 entry which should be manually viewed. See: https://developer.mozilla.org/en-US/docs/Glossary/Robots.txt: 
++ GET /: The Content-Encoding header is set to "deflate" which may mean that the server is vulnerable to the BREACH attack. See: http://breachattack.com/: 
++ HEAD /demo_owasp-juice_shop.tar.bz2: Potentially interesting backup/cert file found. . See: https://cwe.mitre.org/data/definitions/530.html: 
++ HEAD /demo_owasp-juice_shop.tar.lzma: Potentially interesting backup/cert file found. . See: https://cwe.mitre.org/data/definitions/530.html: 

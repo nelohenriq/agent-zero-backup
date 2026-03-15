@@ -1,0 +1,10 @@
+{
+  "version": 1,
+  "skills": {
+    "google-workspace": {
+      "source": "/a0/usr/skills/google-workspace-skill",
+      "sourceType": "local",
+      "computedHash": "3b6ca3b37cec289ad8fb839346634370050d48c29cc98309ab60d21feaf8d07d"
+    }
+  }
+}

@@ -1,0 +1,20 @@
+project: Scraping Betting Sites
+status: Active
+optimization: TOON Enabled
+
+scripts[4]{name,purpose}:
+  soccer_scraper.py,Hierarchical soccer data extraction
+  nba_scraper.py,Hierarchical NBA data extraction
+  futsal_scraper.py,Detailed futsal market scraping
+  toon_utils.py,Utilities for TOON conversion
+
+data_files[4]{path,format,size}:
+  placard_deep_data.toon,TOON,590K
+  soccer_data.toon,TOON,1.3K
+  nba_data.toon,TOON,784B
+  futsal_data.toon,TOON,62B
+
+recent_actions:
+  - Completed Futsal scraper development
+  - Converted all primary data to TOON
+  - Optimized workspace by removing redundant JSON files

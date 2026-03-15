@@ -1,0 +1,6 @@
+# Caffeine Timing, Dosing, and Performance on Night Shift: ...
+
+*Source*: https://residencyadvisor.com/resources/night-shift-survival/caffeine-timing-dosing-and-performance-on-night-shift-data-driven-guide
+*Fetched*: 2026-03-10T02:08:50.865830Z
+
+... Last meaningful dose should be no later than 03:00, and ideally ~01:00–02:00. That still leaves ~25–35% of peak level at 09:00, which is tolerable for many but not all. Residents who cannot fall asleep until 11:00 or later often have ...

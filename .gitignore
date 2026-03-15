@@ -1,0 +1,57 @@
+# Secrets and sensitive data
+*.env
+*.pem
+*.key
+secrets.env
+.env
+
+# Large data files
+*.txt.gz
+rockyou.txt
+*.pack
+*.node
+
+# Node.js
+node_modules/
+.npm/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.venv/
+venv/
+
+# Build artifacts
+dist/
+.cache/
+*.log
+
+# Downloads and uploads (user data)
+downloads/
+uploads/
+evidence/
+
+# Chat history (privacy)
+chats/*/messages/*.txt
+
+# Projects build cache
+projects/*/node_modules/
+projects/*/dist/
+projects/*/.next/
+projects/*/.cache/
+
+# Ollama models (huge)
+ollama/models/
+models/
+*.gguf
+*.bin
+
+# IDE
+.idea/
+.vscode/
+*.swp
+
+# OS files
+.DS_Store
+Thumbs.db

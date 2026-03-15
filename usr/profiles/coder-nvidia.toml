@@ -1,0 +1,26 @@
+# Coder Optimized for NVIDIA Models
+# Overrides chat_model to use NVIDIA endpoint
+
+[chat_model]
+provider = "nvidia"
+model_id = "nvidia/nv-llama-3.1-405b-instruct"  # Example high-performance NVIDIA model
+api_key = "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"
+base_url = "https://integrate.api.nvidia.com/v1"
+
+[utility_model]
+provider = "nvidia"
+model_id = "nvidia/nv-llama-3.1-8b-instruct"
+api_key = "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"
+base_url = "https://integrate.api.nvidia.com/v1"
+
+[browser_model]
+provider = "nvidia"
+model_id = "nvidia/nv-llama-3.1-8b-instruct"
+api_key = "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"
+base_url = "https://integrate.api.nvidia.com/v1"
+
+[embeddings_model]
+provider = "nvidia"
+model_id = "nvidia/nv-embedqa-e5-v5"
+api_key = "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"
+base_url = "https://integrate.api.nvidia.com/v1"

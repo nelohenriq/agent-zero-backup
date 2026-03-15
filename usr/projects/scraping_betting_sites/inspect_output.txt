@@ -1,0 +1,4 @@
+  File "/a0/usr/projects/scraping_betting_sites/inspect_feeds_v2.py", line 12
+    data = json.load(f)
+    ^^^^
+IndentationError: expected an indented block after 'with' statement on line 11

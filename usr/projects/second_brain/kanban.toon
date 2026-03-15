@@ -1,0 +1,13 @@
+kanban{todo,inprogress,done}:
+  todo[4]{id,task,goal_id}:
+    6,Research meal prep for night shifts (Mediterranean style),1
+    7,List 3 achievements for the new confidence log,2
+    8,Draft intro message for a local interest group,3
+    9,Plan route for tomorrow's walk (different scenery),1
+  inprogress[0]{id,task,goal_id}:
+  done[5]{id,task,goal_id}:
+    1,Research beginner home workouts,1
+    2,Draft a list of personal achievements to boost confidence,2
+    3,Find local community groups or clubs based on interests,3
+    4,Look up science-based weight loss tips (diet/sleep),1
+    5,Identify one social event to attend this week,3

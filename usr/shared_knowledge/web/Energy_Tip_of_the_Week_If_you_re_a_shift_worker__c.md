@@ -1,0 +1,6 @@
+# Energy Tip of the Week If you're a shift worker, caffeine timing ...
+
+*Source*: https://www.instagram.com/p/DUEpKKMk0vv/
+*Fetched*: 2026-03-10T02:08:26.996119Z
+
+... shift worker, caffeine timing matters more than caffeine amount. Caffeine stays in your system for 8–10 hours. Drinking coffee too late can ...
